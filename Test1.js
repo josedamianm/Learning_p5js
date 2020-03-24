@@ -1,7 +1,7 @@
 let bubble1 , bubble2;
 
 function setup() {
-  createCanvas(300, 300);
+  createCanvas(150, 150);
   bubble1 = new Bubble();
   bubble2 = new Bubble();
   print(bubble1.x, bubble1.y);
