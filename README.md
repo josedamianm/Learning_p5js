@@ -1,2 +1,2 @@
 # Learning_p5js
-This will help lo learn p5.js
+This Project help with the learning of p5.js
